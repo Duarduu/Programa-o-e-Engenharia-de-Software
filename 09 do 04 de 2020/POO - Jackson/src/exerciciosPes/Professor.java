@@ -1,4 +1,4 @@
-package pacoteSmartphone;
+package exerciciosPes;
 
 public class Professor extends SerHumano {
 

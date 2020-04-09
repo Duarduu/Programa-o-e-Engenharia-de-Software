@@ -1,4 +1,4 @@
-package pacoteSmartphone;
+package exerciciosPes;
 
 public class SerHumano {
 	private double peso,altura;
